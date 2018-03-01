@@ -1,0 +1,368 @@
+@charset "utf-8";
+/* CSS Document */
+
+#leftbar
+{
+	
+	background-color:#FFF;
+	width:220px;
+	padding:0px;
+	margin-left:0px;
+	overflow:hidden;
+	margin-top:15px;
+	border:groove #CCC 1px;
+	border-top-left-radius:5px 5px;
+	border-top-right-radius:5px 5px;
+	border-bottom-left-radius:5px 5px;
+	border-bottom-right-radius:5px 5px;
+
+
+	
+}
+
+#Categories
+{
+	margin: 0px;
+	height: 30px;
+	width: 220px;
+	text-align:center;
+	color:#000;
+	background:#CCCCCC;
+	border-bottom-style: solid;
+	border-bottom-color:#CCC;
+	border-bottom-width: 1px;
+	overflow:hidden;
+	font-family:'Open Sans',sans-serif;
+	padding-top:4px;
+	font-size:14px;
+}
+#solution
+{
+	
+	margin: 0px;
+	height: 20px;
+	width: 220px;
+	background-color:#CCCCCC;
+	text-align:center;
+	cursor: pointer;
+	color:rgb(67,67,67);
+	border-bottom:solid #CCC 1px;
+	border-top:solid #FFF 1px;
+	overflow:hidden;
+	font-family:'Open Sans',sans-serif;
+	padding-top:4px;
+	font-size:11px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+#solution:hover{
+	background:#333333;
+	color:#FFF;
+	}
+#solutions {
+    
+    margin: 0px;
+    width: 100%;
+    display: none;
+    list-style: none;
+	background-color:#CCC;
+	font-family:'Open sans', sans-serif;
+	font-size:11px;
+	text-align: center;
+	text-transform:uppercase;	
+	text-align:center;
+}
+
+
+#solutions li{
+    width: 100%;
+	background-color:#CCC;
+	text-align: center;
+	height:20px;
+	font:'Open Sans',sans-serif;
+	cursor:pointer;
+
+    
+}
+
+
+#solutions li:hover{
+    background-color:#666;
+    color:#FFF;
+	}
+/*Hotel*/
+#solution1
+{
+	
+	margin: 0px;
+	height: 30px;
+	width: 220px;
+	background-color:#CCCCCC;
+	text-align:center;
+	cursor: pointer;
+	color:rgb(67,67,67);
+	border-bottom:solid #CCC 1px;
+	border-top:solid #FFF 1px;
+	overflow:hidden;
+	font-family:'Open Sans',sans-serif;
+	padding-top:4px;
+	font-size:11px;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+#solution1:hover{
+	background:#333333;
+	color:#FFF;
+	}
+#solutions1 {
+    
+    margin: 0px;
+    width: 100%;
+    display: none;
+    list-style: none;
+	background-color:#CCC;
+	font-family:'Open sans', sans-serif;
+	font-size:11px;
+	text-align: center;
+	text-transform:uppercase;	
+	text-align:center;
+}
+
+
+#solutions1 li{
+    width: 100%;
+	background-color:#CCC;
+	text-align: center;
+	height:30px;
+	font:'Open Sans',sans-serif;
+	cursor:pointer;
+
+    
+}
+
+
+#solutions1 li:hover{
+    background-color:#666;
+    color:#FFF;
+	}
+/*restaurent*/
+#solution2
+{
+	
+	margin: 0px;
+	height: 30px;
+	width: 220px;
+	background-color:#CCCCCC;
+	text-align:center;
+	cursor: pointer;
+	color:rgb(67,67,67);
+	border-bottom:solid #CCC 1px;
+	border-top:solid #FFF 1px;
+	overflow:hidden;
+	font-family:'Open Sans',sans-serif;
+	padding-top:4px;
+	font-size:11px;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+#solution2:hover{
+	background:#333333;
+	color:#FFF;
+	}
+#solutions2 {
+    
+    margin: 0px;
+    width: 100%;
+    display: none;
+    list-style: none;
+	background-color:#CCC;
+	font-family:'Open sans', sans-serif;
+	font-size:11px;
+	text-align: center;
+	text-transform:uppercase;	
+	text-align:center;
+}
+
+
+#solutions2 li{
+    width: 100%;
+	background-color:#CCC;
+	text-align: center;
+	height:30px;
+	font:'Open Sans',sans-serif;
+	cursor:pointer;
+
+    
+}
+
+
+#solutions2 li:hover{
+    background-color:#666;
+    color:#FFF;
+	}
+/*bus*/
+#solution3
+{
+	
+	margin: 0px;
+	height: 20px;
+	width: 220px;
+	background-color:#CCCCCC;
+	text-align:center;
+	cursor: pointer;
+	color:rgb(67,67,67);
+	border-bottom:solid #CCC 1px;
+	border-top:solid #FFF 1px;
+	overflow:hidden;
+	font-family:'Open Sans',sans-serif;
+	padding-top:4px;
+	font-size:11px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+#solution3:hover{
+	background:#333333;
+	color:#FFF;
+	}
+#solutions3 {
+    
+    margin: 0px;
+    width: 100%;
+    display: none;
+    list-style: none;
+	background-color:#CCC;
+	font-family:'Open sans', sans-serif;
+	font-size:11px;
+	text-align: center;
+	text-transform:uppercase;	
+	text-align:center;
+}
+
+
+#solutions3 li{
+    width: 100%;
+	background-color:#CCC;
+	text-align: center;
+	height:20px;
+	font:'Open Sans',sans-serif;
+	cursor:pointer;
+
+    
+}
+
+
+#solutions3 li:hover{
+    background-color:#666;
+    color:#FFF;
+	}	
+/*Flight*/	
+#solution4
+{
+	
+	margin: 0px;
+	height: 20px;
+	width: 220px;
+	background-color:#CCCCCC;
+	text-align:center;
+	cursor: pointer;
+	color:rgb(67,67,67);
+	border-bottom:solid #CCC 1px;
+	border-top:solid #FFF 1px;
+	overflow:hidden;
+	font-family:"myriad Pro";
+	padding-top:4px;
+	font-size:11px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+#solution4:hover{
+	background:#333333;
+	color:#FFF;
+	}
+#solutions4 {
+    
+    margin: 0px;
+    width: 100%;
+    display: none;
+    list-style: none;
+	background-color:#CCC;
+	font-family:'Open sans', sans-serif;
+	font-size:11px;
+	text-align: center;
+	text-transform:uppercase;	
+	text-align:center;
+}
+
+
+#solutions4 li{
+    width: 100%;
+	background-color:#CCC;
+	text-align: center;
+	height:20px;
+	font-family:'Open Sans',sans-serif;
+	cursor:pointer;
+
+    
+}
+
+
+#solutions4 li:hover{
+    background-color:#666;
+    color:#FFF;
+	}	
+/*USER*/
+#solution5
+{
+	
+	margin: 0px;
+	height: 20px;
+	width: 220px;
+	background-color:#CCCCCC;
+	text-align:center;
+	cursor: pointer;
+	color:rgb(67,67,67);
+	border-bottom:solid #CCC 1px;
+	border-top:solid #FFF 1px;
+	overflow:hidden;
+	font-family:"myriad Pro";
+	padding-top:4px;
+	font-size:11px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+#solution5:hover{
+	background:#333333;
+	color:#FFF;
+	}
+#solutions5 {
+    
+    margin: 0px;
+    width: 100%;
+    display: none;
+    list-style: none;
+	background-color:#CCC;
+	font-family:'Open sans', sans-serif;
+	font-size:11px;
+	text-align: center;
+	text-transform:uppercase;	
+	text-align:center;
+}
+
+
+#solutions5 li{
+    width: 100%;
+	background-color:#CCC;
+	text-align: center;
+	height:20px;
+	font-family:'Open Sans',sans-serif;
+	cursor:pointer;
+
+    
+}
+
+
+#solutions5 li:hover{
+    background-color:#666;
+    color:#FFF;
+	}		
+		
